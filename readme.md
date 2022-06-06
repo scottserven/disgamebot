@@ -15,7 +15,7 @@ It is structured so other games may be added to it at a later time.
 # Try It Out
 There is a public Discord server running this bot if you want to see it in action:
 
-[DisGameBot's Test Server](https://discord.gg/42Cfxrw9)
+[DisGameBot's Test Server](https://discord.gg/QYBEpnYkkY)
 
 # Running The Bot Yourself
 Regardless of where you plan on hosting the app (on your own PC/server, or Heroku), the bot will 
